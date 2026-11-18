@@ -1,7 +1,30 @@
 # EtchDroid
 
 <p align="center">
-<img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/tag/EtchDroid/EtchDroid.svg?label=latest"/> <img alt="Build and test" src="https://github.com/EtchDroid/EtchDroid/workflows/Build%20and%20test/badge.svg"/> <a href="https://hosted.weblate.org/engage/etchdroid/?utm_source=widget"><img alt="Translation status" src="https://hosted.weblate.org/widgets/etchdroid/-/svg-badge.svg"/></a> <img alt="License" src="https://img.shields.io/github/license/EtchDroid/EtchDroid.svg"/>
+  <img
+    alt="GitHub tag (latest SemVer)"
+    src="https://img.shields.io/github/tag/EtchDroid/EtchDroid.svg?label=latest"
+  />
+  <img
+    alt="Build and test"
+    src="https://github.com/EtchDroid/EtchDroid/workflows/Build%20and%20test/badge.svg"
+  />
+  <a href="https://hosted.weblate.org/engage/etchdroid/?utm_source=widget">
+    <img
+      alt="Translation status"
+      src="https://hosted.weblate.org/widgets/etchdroid/-/svg-badge.svg"
+    />
+  </a>
+  <img
+    alt="License"
+    src="https://img.shields.io/github/license/EtchDroid/EtchDroid.svg"
+  />
+  <a href="https://www.openlib.online/app/etchdroid">
+    <img
+      src="https://www.openlib.online/badge/etchdroid.svg?metric=verified"
+      alt="OpenLib: Verified FOSS"
+    />
+  </a>
 </p>
 
 <p align="center">
